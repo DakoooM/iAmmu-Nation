@@ -1,2 +1,5 @@
 # iAmmu-Nation
-script ammu nation on rageui for fivem
+script Ammu Nation use RageUI For FiveM
+
+# Dépendances
+the script needs es_extended
