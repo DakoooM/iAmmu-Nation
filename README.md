@@ -3,3 +3,7 @@ script Ammu Nation use RageUI For FiveM
 
 # Dépendances
 the script needs es_extended
+
+# Preview 
+
+https://streamable.com/kfhk3i
