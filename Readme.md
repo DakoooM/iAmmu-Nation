@@ -12,3 +12,7 @@
 # Preview 
 
 https://streamable.com/kfhk3i
+
+# Join our Discord to get help in understanding the development
+
+https://discord.gg/ss4H3VKAZ4
